@@ -19,3 +19,9 @@ Customize the appearance and behavior as needed to fit your application's requir
 <p align="center">
     <img alt="Home screen" src="./Screenshots/Screenshots 2024-03-24 at 2.10.03 PM.png" height = "700px"/>
 </p>
+
+<p align="center">
+    <img alt="Home screen" src="./Screenshots/Screenshots 2024-03-24 at 2.10.03 PM.png" height = "700px"/>
+</p>
+
+
