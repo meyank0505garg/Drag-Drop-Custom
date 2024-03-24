@@ -1,3 +1,5 @@
+package com.digitaldukaan.dragAndDrop
+
 
 import androidx.compose.foundation.background
 import androidx.compose.foundation.gestures.detectDragGesturesAfterLongPress
